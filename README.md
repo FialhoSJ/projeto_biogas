@@ -30,6 +30,7 @@ O principal objetivo do **Projeto Biogás** é promover o uso seguro e eficiente
 ## 🛠️ Tecnologias Utilizadas
 
 - **Front-end**: React, Vite, React Router DOM, Chart.js, CSS Responsivo.
+- **Back-end**: Python, Flask, Flask API.
 - **Hospedagem**: Netlify.
 
 ---
